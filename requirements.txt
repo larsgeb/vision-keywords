@@ -1,0 +1,4 @@
+pillow
+piexif
+tqdm
+iptcinfo3
