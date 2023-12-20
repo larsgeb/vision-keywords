@@ -1,6 +1,8 @@
 # Vision-Keywords
 __Image Keyword Generation with OpenAI GPT-4__
 
+Blog post [here](https://larsgeb.github.io/2023/12/20/vision-keywords.html).
+
 ## Overview
 
 This script utilizes the OpenAI GPT-4 API to generate keywords and titles for
